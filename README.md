@@ -16,7 +16,7 @@ If you’re impressed by the demo and want to start sniping tokens like a pro, I
 
 ## 👤 Author
 
-### Telegram: [NeloLab](https://t.me/NeloLab)   
-https://t.me/NeloLab
+### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+https://t.me/Meta0xFlip
 
 Once we connect on Telegram, we can discuss further details through other communication channels.
