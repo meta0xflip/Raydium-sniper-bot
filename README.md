@@ -1,4 +1,6 @@
-# Unlock the Power of Fast Token Sniping on Raydium (Solana)
+# 🚀 Raydium Sniper Bot
+
+## Unlock the Power of Fast Token Sniping on Raydium (Solana)
 
 Want to snipe newly launched tokens on Raydium within the first block or even the first second after pool creation? With my custom-built sniper tool, you can achieve just that!
 
